@@ -1,0 +1,359 @@
+Musk's Starlink Was Not Connected to Vote Tabulation, Contrary to Online Claims - FactCheck.org
+Facebook
+Twitter
+Tumblr
+Close
+Skip to main content
+FactCheck
+.org
+®
+A Project of The Annenberg Public Policy Center
+FactCheck
+.org
+®
+Home
+Articles
+Featured Posts
+FactCheck Posts
+SciCheck
+En Español
+2024 elections
+Players Guide 2024
+Debunking Viral Claims
+Ask a Question
+Ask FactCheck
+Ask SciCheck
+Donate
+Topics
+President Biden
+Donald Trump
+Kamala Harris
+JD Vance
+Tim Walz
+health
+Coronavirus
+immigration
+climate change
+View All
+About Us
+Our Mission
+Our Process
+Our Funding
+Our Staff
+Undergraduate Fellows
+Awards
+Request a Correction
+Contact Us
+Search
+More
+Viral Claims
+Subscribe
+Instagram
+Threads
+YouTube
+X (Twitter)
+Facebook
+TikTok
+FactCheck On the Air
+Mailbag
+Debunking Viral Claims
+›
+FactCheck Posts
+Musk’s Starlink Was Not Connected to Vote Tabulation, Contrary to Online Claims
+By
+Eliza Keefe
+Posted on
+November 19, 2024
+Este artículo estará disponible en español
+en El Tiempo Latino
+.
+Quick Take
+Elon Musk’s Starlink system helped provide internet access to communities affected by the recent hurricanes. But online posts spread baseless claims that Starlink “uploaded votes in swing states” and helped Donald Trump win the election. Experts said voting machines are not connected to the internet during tabulation; one state election official called the claims “utter garbage.”
+Full Story
+President-elect Donald Trump
+won
+the
+presidential race
+propelled by victories in all seven swing states. Trump not only won the electoral college, but he is ahead of Vice President Kamala Harris in the popular vote by
+about 2.6 million votes
+, as of Nov. 18.
+In a
+statement
+days after the election,
+Jen Easterly,
+director of the Cybersecurity and Infrastructure Security Agency, or CISA, wrote, “As we have said repeatedly, our election infrastructure has never been more secure and the election community never better prepared to deliver safe, secure, free, and fair elections for the American people. … Importantly, we have no evidence of any malicious activity that had a material impact on the security or integrity of our election infrastructure.”
+Nevertheless, baseless accusations of 2024 election interference
+have spread
+on
+social media
+. Most recently, claims from partisan
+users
+are
+targeting Elon Musk’s Starlink system, a
+division
+of SpaceX that provides satellite-based broadband internet.
+Musk,
+CEO
+of
+SpaceX,
+endorsed
+Trump, who
+announced
+on Nov. 12 that Musk and Vivek Ramaswamy, a 2024 Republican presidential candidate, would lead what Trump is calling the Department of Government Efficiency. Trump said the new department would “provide advice and guidance from outside of Government,”
+CNN reported.
+The social media posts have falsely claimed that Musk, Trump and Russian President Vladimir Putin conspired to rig the election in Trump’s favor by using Starlink to systematically switch votes across swing states. We debunked a
+similar
+conspiracy theory
+that a secret supercomputer and accompanying software program were used to switch votes from Trump to President-elect Joe Biden in 2020. Federal and state officials, as well as experts who study election security, flatly rejected such claims at the time.
+One of the recent posts
+asked
+, “Why was Starlink involved in any way with the election tabulation?”
+A second social media user misleadingly
+wrote
+, “The Russians have access to Starlink terminals and therefore the satellites. The Russians are known hackers. Elon Musk and the US gov. sent Starlink terminals to Florida, Georgia, North and South Carolina, Tennessee, Kentucky, Virginia and West Virginia due to the hurricanes.”
+Another social media user
+said
+, “Trump cheats at everything in life. Putin interfered in [the] past 3 elections. Musk & Trump talk to Putin a lot. Musk’s Starlink uploaded votes in swing states. Swing state voters went Dem downballot but Trump at the top? Unlikely. Starlink satellites exploding, destroying evidence.”
+Starlink did
+deploy
+satellite systems to
+provide
+internet
+access to communities affected by Hurricanes Helene and Milton. But that emergency response effort had nothing to do with the tabulation of ballots in the election.
+No Evidence of Systematic Vote Switching
+Voting machines are not connected to the internet during voting tabulation, experts explained.
+Cait Conley
+, senior adviser to the CISA director, told us in an email: “There are a number of reasons why the nation’s election infrastructure has never been more secure. First, the machines Americans use to vote are not connected to the internet.”
+Ted Allen,
+an associate professor of integrated systems engineering at the Ohio State University and an expert with the MIT Election Data and Science Lab, said in an email, “It is my understanding that there is no involvement of Starlink in vote tallying in any U.S. county, even for overseas military voters. There was a time when the process was different for some states many years ago, before Starlink existed.”
+In Georgia, state law explicitly
+prohibits
+voting machines from connecting to the internet. In response to the social media posts, Mike Hassinger, a spokesperson for the Georgia secretary of state, told us, “This conspiracy is utter garbage and 100% false. No Georgia election tabulation is connected to the internet, ever, not by Starlink or anything else. Starlink equipment was not deployed for or used in any way in connection [to] the 2024 general election.”
+North Carolina law also expressly
+forbids
+internet connectivity in its voting machines. Patrick Gannon, a spokesperson for the North Carolina State Board of Elections, told us, “We have no evidence of any alteration of votes by anyone. We ask, again, that people stop spreading false information about elections.”
+“Satellite-based internet devices were not used to tabulate or upload vote counts in North Carolina,” Gannon explained. “Our tabulated results are encrypted from source to destination preventing results being modified in transit. Additionally, tabulators and ballot-marking devices are never connected to the internet.”
+The Wisconsin Elections Commission released a
+statement
+addressing the social media claims on Nov. 14, reassuring the public that Starlink “was not used to alter … official or unofficial election results” in the state. According to the commission’s
+website
+, “During the hours in which ballots are cast by voters, there are zero tabulators in Wisconsin with network connectivity enabled.”
+The battleground states of
+Arizona
+,
+Michigan
+,
+Nevada
+and
+Pennsylvania
+have established comparable procedures.
+There are a few exceptions in limited circumstances, the Associated Press has reported. “There are some jurisdictions in a few states that allow for ballot scanners in polling locations to transmit unofficial results, using a mobile private network, after voting has ended on Election Day and the memory cards containing the vote tallies have been removed,” the AP said in an
+Oct. 9 story
+. But experts have said that practice is risky and “should be prohibited,” the AP reported.
+Additional checks and security measures further prevent the possibility of fraud throughout the election process. Conley told us, “Election officials have put in place multiple layers of safeguards to protect election systems, including pre-election testing of equipment, cybersecurity protections, physical access controls, and post-election auditing.”
+“Over 97 percent of registered voters – including voters in every swing state – cast a ballot in jurisdictions where they received a paper record that they themselves could verify,” Conley said. Paper records also
+enable
+states to conduct post-election audits of tabulated results.
+“Each state runs elections differently – different processes, different equipment – and it’s this diverse and decentralized nature of our nation’s election infrastructure that creates tremendous resilience and ensures no single point of failure,” Conley said.
+As for claims about “Starlink satellites exploding,”
+decommissioned
+Starlink satellites
+are
+designed
+to burn up during reentry in an effort to promote space sustainability and safety. The recently
+spotted
+fireball
+in the southwestern U.S. was likely a decommissioned Starlink spacecraft. Starlink satellite reentries occur nearly every day, Jonathan McDowell, a science data system group leader at NASA’s Chandra X-ray Center,
+told PolitiFact.
+And contrary to some of the social media posts, the
+practice
+of voting for candidates of opposing political parties in the same election, often called split-ticket voting, is not proof of election interference.
+Barry Burden
+, director of the Elections Research Center at the University of Wisconsin-Madison,
+told us
+for a story in November 2020, “Even in an era of strong partisanship, some voters split their tickets.”
+This isn’t evidence of votes being switched by Starlink or any nefarious actor.
+Editor’s note:
+FactCheck.org
+is one of several organizations
+working with Facebook
+to debunk misinformation shared on social media. Our previous stories can be found
+here
+. Facebook has
+no control
+over our editorial content.
+Sources
+NBC News. “
+2024 President Results: Trump wins
+.” Accessed 14 Nov 2024.
+Miller, Zeke, et al. “
+Trump wins the White House in a political comeback rooted in appeals to frustrated voters
+.” AP News. 6 Nov 2024.
+Cybersecurity and Infrastructure Security Agency. “
+Statement from CISA Director Easterly on the Security of the 2024 Elections
+.” Press release. 6 Nov 2024.
+Hale Spencer, Saranac. “
+Both Sides Distort Incomplete Vote Counts to Falsely Suggest Election Fraud
+.” FactCheck.org. 12 Nov 2024.
+Afreen, Uzma. “
+Trump, Vance Opted Out of Oregon’s Voter Guide, Contrary to Online Claims of ‘Voter Fraud
+.’” FactCheck.org. 29 Oct 2024.
+Keefe, Eliza. “
+Video Shows ‘Voter Error,’ Note ‘Election Interference’ in Kentucky
+.” FactCheck.org. 4 Nov 2024.
+Starlink. “
+High-Speed Internet Around the World
+.” Accessed 14 Nov 2024.
+Beltran, Luisa. “
+SpaceX org chart: The top executives running Elon Musk’s space tech company
+.” Yahoo Finance. 20 Nov 2023.
+Gregerson, Erik. “
+Elon Musk
+.” Britannica. 17 Nov 2024.
+Jin, Hyunjoo, and Alexandra Ulmer. “
+Elon Musk endorses Trump in presidential race, calls him ‘tough.’
+” Reuters. 14 Jul 2024.
+Shear, Michael, and Eric Lipton. “
+Trump Taps Elon Musk and Vivek Ramaswamy to Slash Government
+.” New York Times. 12 Nov 2024.
+Blackburn, Piper Hudspeth, et al.
+“Elon Musk and Vivek Ramaswamy will lead new ‘Department of Government Efficiency’ in Trump administration.”
+CNN. 12 Nov 2024.
+Hale Spencer, Saranac, and Angelo Fichera. “
+MyPillow CEO’s Video Rehashes Debunked Election Fraud Claims
+.” FactCheck.org. 5 Feb 2021.
+Fichera, Angelo, and Saranac Hale Spencer. “
+Bogus Theory Claims Supercomputer Switched Votes in Election
+.” FactCheck.org. 13 Nov 2020.
+Gallagher, Shaun. “
+Here’s how Starlink satellites are getting western NC back online
+.” WRAL News. 3 Oct 2024.
+White House. “
+FACT SHEET: UPDATE: Biden-Harris Administration’s Continued Response to Hurricane Helene
+.” 30 Sep 2024.
+White House. “
+FACT SHEET: UPDATE: Biden-Harris Administration Continues Life-Saving Preparations for Hurricane Milton
+.” 8 Oct 2024.
+MIT Election Data and Science Lab. “
+Experts
+.” Accessed 18 Nov 2024.
+Georgia State Election Board.
+“Rule 183-1-12-.05. Security of Voting System Components at County Elections Office or Designated County Storage Area.”
+29 Oct 2024.
+North Carolina State Board of Elections. “
+10 Facts About Election Security in North Carolina
+.” Accessed 15 Nov 2024.
+Wisconsin Elections Commission. “
+No, Starlink, a Satellite Internet Service Provider, Was Not Used To Alter Election Results
+.” 14 Nov 2024.
+Wisconsin Elections Commission. “
+Election Results Transmission
+.” Accessed 17 Nov 2024.
+Arizona Secretary of State. “
+Voting Equipment
+.” Accessed 15 Nov 2024.
+Michigan Bureau of Elections. “
+Election security in Michigan
+.” Accessed 15 Nov 2024.
+Nevada Secretary of State. “
+Voting System Testing And Security
+.” Accessed 15 Nov 2024.
+Commonwealth of Pennsylvania. “
+Election Security in Pennsylvania
+.” Accessed 15 Nov 2024.
+Cassidy, Christina. “
+Voting systems are targets of conspiracy theories, but get tested for accuracy and security
+.” AP News. 9 Oct 2024.
+MIT Election Data and Science Lab. “
+Post-Election Audits
+.” 4 Sep 2024.
+SpaceX. “
+Commitment to Space Sustainability
+.” Accessed 15 Nov 2024.
+Lagatta, Eric. “
+Video shows Starlink satellite that resembled fireball breaking up over the Southwest: Watch
+.” USA TODAY. 11 Nov 2024.
+Tingley, Brett. “
+Starlink satellite falls to Earth, burns up as stunning fireball over US (video)
+.” Space. 11 Nov 2024.
+Trela, Nate.
+“Starlink satellite destruction routine maneuver, note election fraud cover-up | Fact check.”
+USA Today. 14 Nov 2024.
+NASA Space Science Data Coordinated Archive. “
+Starlink 4682
+.” Accessed 17 Nov 2024.
+Czopek, Madison, and Sara Swann.
+“No, Elon Musk’s Starlink wasn’t used to rig the 2024 presidential election for Donald Trump.”
+PolitiFact. 12 Nov 2024.
+Annenberg Classroom. “
+Ticket Splitting
+.” Annenberg Public Policy Center of the University of Pennsylvania. 15 Nov 2024.
+Elections Research Center. “
+Faculty
+.” Accessed 15 Nov 2024.
+Fichera, Angelo. “
+Faulty Claim About ‘Biden-Only’ Ballot in Georgia
+.” FactCheck.org. 12 Nov 2020.
+Conley, Cait.
+Senior advisor, Cybersecurity and Infrastructure Security Agency. Email to FactCheck.org. 12 Nov 2024.
+Allen, Ted.
+Associate professor of integrated systems engineering, The Ohio State University. Email to FactCheck.org. 17 Nov 2024.
+Wisconsin Elections Commission. Spokesperson. Email to FactCheck.org. 15 Nov 2024.
+Office of Georgia Secretary of State. Spokesperson. Email to FactCheck.org. 15 Nov 2024.
+Gannon, Patrick. Spokesperson, North Carolina State Board of Elections. Email to FactCheck.org. 15 Nov 2024.
+Categories
+Debunking Viral Claims
+FactCheck Posts
+Tags
+2024 elections
+Presidential Election 2024
+Location
+National
+Issue
+vote tabulation
+voting
+People
+Donald Trump
+Elon Musk
+Joe Biden
+Kamala Harris
+Vladimir Putin
+Previous Story
+No Evidence Harris Campaign Paid for Celebrity Endorsements
+Ask SciCheck
+Q: Are wind farms harmful to the environment?
+A: Like all energy sources, wind farms have some negative environmental impacts. But getting energy from wind farms results in dramatically lower greenhouse gas emissions than getting it from fossil fuels.
+Read the full question and answer
+View the Ask SciCheck archives
+Have a question?
+Ask us.
+Donate Now
+Because facts matter.
+SciCheck's COVID-19/Vaccination Project
+Preempting and exposing vaccination and COVID-19 misinformation.
+Proyecto de Vacunación/COVID-19
+Precaviendo y exponiendo la desinformación sobre el COVID-19 y sus vacunas
+SciCheck
+Fact-checking science-based claims.
+Facebook Initiative
+Debunking viral claims.
+Players Guide 2024
+The special interest groups behind the TV ads.
+Viral Spiral
+Don’t get spun by internet rumors.
+Sign Up
+Get free email alerts.
+Mailbag
+Letters from our readers.
+On the Air
+Our staff on TV and radio.
+NewsFeed Defenders
+A media literacy game to detect misinformation.
+Archives
+Privacy
+Copyright Policy
+Contact Us
+Report Accessibility Issues and Get Help
+© Copyright 2024 FactCheck.org
+®
+A Project of The Annenberg Public Policy Center of the University of Pennsylvania
